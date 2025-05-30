@@ -1,4 +1,4 @@
-# smoothRedditBot
+# Smooth - Reddit Bot
 This Reddit bot is designed to post content, comment on top posts, and interact with Reddit communities using Groq for natural language generation. It includes scheduling functionality to make random posts and comments at set intervals.
 
 ## Features
@@ -15,8 +15,8 @@ This Reddit bot is designed to post content, comment on top posts, and interact 
 Clone this repository to your local machine.
 
 ```bash
-git clone https://github.com/yourusername/reddit-bot.git
-cd reddit-bot
+git clone https://github.com/ojasKooL/smooth_reddit_bot.git
+cd smooth_reddit_bot
 ```
 
 ### 2. Install Dependencies
